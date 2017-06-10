@@ -10,7 +10,7 @@ var WebSite = React.createClass({
         return (
             <div>
                 <Name name={this.state.name} />
-                <Name title={123}/>
+                <Name title={12311}/>
                 <Link site={this.state.site} />
             </div>
         );
